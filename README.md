@@ -25,5 +25,5 @@ The repository is organized into the following files:
    git clone https://github.com/your-username/uca-notes.git
 
 ## Contact
-Feel free to reach me out on LinkedIn ;)
+Feel free to reach me out on LinkedIn ;)  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udayan-s-7a8600246/)
