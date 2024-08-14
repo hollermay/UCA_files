@@ -61,7 +61,7 @@ function renderProducts() {
 
     function getProductListUsingMap() {
 
-        var rowsOfProdcuts = productsListFromServer.map((item, index) => {
+        var rowsOfProducts = productsListFromServer.map((item, index) => {
             return `
             <tr>
             <td>${index+1}</td>
@@ -71,12 +71,12 @@ function renderProducts() {
             </tr>`
         })
 
-        return rowsOfProdcuts.join("");
+        return rowsOfProducts.join("");
     }
 
 
-    // function gets into the stack and then executed any variables that are returend from the function are stored in Heap.
-    // we do apis asycn and event listeners and all.
+    // function gets into the stack and then executed any variables that are returned from the function are stored in Heap.
+    // we do apis async and event listeners and all.
     // event queue or callback queue handles all the event listeners or async functions.
     // this is the event loop.
     // JS is only single threaded!!
