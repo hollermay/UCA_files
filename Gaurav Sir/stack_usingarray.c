@@ -3,6 +3,7 @@
 #include<stdbool.h>
 #include<assert.h>
 #include <limits.h>
+#include "stack.h"
 //Implement a stack using array
 
 
